@@ -19,6 +19,8 @@ print(s1.get_value())
 print(s2.get_value()) 
 
 
+
+
 # Double Checked Locking singleton pattern
 import threading
 class SingletonDoubleChecked(object):
